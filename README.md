@@ -1,3 +1,5 @@
+![web development](https://user-images.githubusercontent.com/69164548/183326082-99c33baf-3d5e-496b-a943-7067061146a1.png)
+
 ## Hello 👋
 
 I'm Wilian from Perú, I'm web developer, I enjoy learn and work with languages and frameworks like JavaScript, React, Node, Deno y Go, as well as work with ui, ux, and design in general.
